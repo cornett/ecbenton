@@ -1,4 +1,4 @@
-D = /var/www/htdocs
+D = /var/www/htdocs/ecbentonlibrary.org
 
 all:		$D/bg.png \
 		$D/donations.html \
