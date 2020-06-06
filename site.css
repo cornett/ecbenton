@@ -1,0 +1,88 @@
+body {
+	font-family:		"Droid Sans", Arial, sans-serif;
+	margin:			0px auto 20px;
+	max-width:		750px;
+	background-image:	url('bg.png');
+	font-size:		81.25%;
+
+}
+
+img.hdr {
+	width:			100%;
+}
+
+li {
+	line-height:		1.6;
+}
+
+ul.hours {
+	list-style:		none;
+}
+
+
+h1 {
+	font-family:		"Droid Serif", Georgia, serif;
+	font-size:		2rem;
+	line-height:		1;
+	color:			#333333;
+	margin-bottom:		0;
+}
+
+h2 {
+	font-size:		1.3846rem;
+	font-family:		"Droid Serif", Georgia, serif;
+	font-weight:		normal;
+	color:			#333;
+}
+
+h3 {
+	font-size:		1.6153rem;
+	font-family:		"Droid Serif", Georgia, serif;
+	font-weight:		normal;
+	color:			#666;
+}
+
+nav {
+	background-color:	#2E2E2E;
+	padding:                10px;
+	margin:			0px;
+	display:                block;
+	text-align:             justify;
+	min-height:             1.2em;
+}
+
+nav a {
+	color:			#afafaf;
+	padding:                0 6px;
+	text-decoration:        none;
+}
+
+nav a:hover {
+	color:			#cfcfcf;
+}
+
+nav a.cur {
+	color:			#fff;
+}
+
+p {
+	line-height:		1.6;
+	font-family:		"Droid Sans", Arial, sans-serif;
+}
+
+
+div#content {
+	background-color:	white;
+	padding:		5px 30px 15px;
+}
+
+div#footer {
+	margin-top:		40px;
+	background-color:	white;
+	padding:		5px 30px;
+}
+
+a.tel {
+	color:			inherit;
+	text-decoration:	none;
+}
